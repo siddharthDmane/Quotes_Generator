@@ -1,0 +1,10 @@
+Project Name : Quotes Generator using LSTM
+
+Member1 : Siddharth Dattatray Mane
+Seat No : B234065
+
+Member2 : Lokesh Devchand Chaudhari
+Seat No : B234041
+
+Member3 : Siddhant Chaudhari
+Seat No : B234044
