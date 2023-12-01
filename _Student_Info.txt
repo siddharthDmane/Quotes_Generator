@@ -6,5 +6,5 @@ Seat No : B234065
 Member2 : Lokesh Devchand Chaudhari
 Seat No : B234041
 
-Member3 : Siddhant Chaudhari
+Member3 : Siddhant Choudhary
 Seat No : B234044
